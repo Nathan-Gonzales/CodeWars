@@ -17,3 +17,4 @@ I often come back to old problems to refactor and optimize my code. It is great 
 
 What I learned from solving these problems daily is the power of consistency. If you stay consistent with something no matter how difficult it gets you will find yourself so much further than you realized you could go.
 
+
